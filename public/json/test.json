@@ -1,0 +1,74 @@
+{
+  "FaultDetails": null,
+  "Message": null,
+  "ResponseCode": null,
+  "Result": [
+    {
+      "Area": "RORO1",
+      "LaneNumber": 2,
+      "Vehicles": [
+        {
+          "HandlingUid": 0,
+          "Length": 2,
+          "Offset": 0.2,
+          "PlannedOut": false,
+          "Present": true,
+          "Sequence": 1,
+          "Type": "CAR",
+          "Uid": 0,
+          "UpdateCount": 0,
+          "VIN": "d8cbf858-cc12-4d2a-b226-b0e60df3f0e4",
+          "Weight": null,
+          "Width": null
+        },
+        {
+          "HandlingUid": 0,
+          "Length": 2,
+          "Offset":2.4,
+          "PlannedOut": false,
+          "Present": true,
+          "Sequence": 2,
+          "Type": "CAR",
+          "Uid": 0,
+          "UpdateCount": 0,
+          "VIN": "e66fce4e-9461-4a2e-8c93-f38f504d5361",
+          "Weight": null,
+          "Width": null
+        }
+        
+      ]
+    },
+    {
+      "Area": "RORO1",
+      "LaneNumber": 3,
+      "Vehicles": [
+        {
+          "HandlingUid": 0,
+          "Length":3,
+          "Offset": 0,
+          "PlannedOut": false,
+          "Present": true,
+          "Sequence": 1,
+          "Type": "CAR",
+          "Uid": 0,
+          "UpdateCount": 0,
+          "VIN": "433ad2e6-7bb6-4fcf-b94b-b29aec2ead1f",
+          "Weight": null,
+          "Width": 1.8
+        }
+      
+      ]
+    }
+  
+   
+    
+       
+     
+  ],
+  "Success": true,
+  "HasPaging": false,
+  "PageCount": 0,
+  "PageIndex": 0,
+  "PageSize": 0,
+  "ResultsCount": 16
+}

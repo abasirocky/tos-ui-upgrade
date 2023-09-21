@@ -1,0 +1,4 @@
+{
+  "serverUrl": "http://localhost:5145/api/v1/system/terminalmonitoring/getterminalmonitoring",
+  "GeoAnchorageLine": "51.286708862454304/4.338913227720326,51.280372476375646/4.344100121018471,51.28054990708165/4.358445122793114"
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "startDate": "2021/11/13 00:00",
+    "endDate": "2021/12/25 00:00",
+    "setting": {
+      "configuration": {
+        "backgroundColor": "#fffFFFFFFfff",
+        "pixelPerMeter": 3,
+        "pixelPerHour": 5,
+        "bollardGridColor": "#FFFFFF",
+        "cornerBoxBackgroundColor": "#FFFFFF",
+        "cornerBoxForegroundColor": "#0C0C0C",
+        "cornerBoxBorderThickness": 1,
+        "cornerBoxBorderColor": "#BABABA",
+        "timeLineBackgroundColor": "#FFFFFF",
+        "timeLineForegroundColor": "#0C0C0C",
+        "timeLineBorderThickness": 1,
+        "timeLineBorderColor": "#BABABA",
+        "timeLineStartOfDayBackgroundColor": "#0D4D77",
+        "timeLineStartOfDayForegroundColor": "#FFFFFF",
+        "timeLineHourBackgroundColor": "#E1A600",
+        "timeLineHourForegroundColor": "#FFFFFF"
+      },
+      "berth": {
+        "foregroundColor": "#003252",
+        "backgroundColor": "#FFFFFF",
+        "borderColor": "#E1A600",
+        "borderThickness": 1
+      },
+      "bollard": {
+        "backgroundColor": "#000000",
+        "borderColor": "#0D4D77",
+        "borderThickness": 1
+      }
+    },
+    "berths": [
+      {
+        "id": null,
+        "name": "Berth 1",
+        "code": null,
+        "length": 105,
+        "connected": true,
+        "bollards": [
+          { "id": "1", "name": "B01", "distance": 10, "code": null },
+          { "id": "2", "name": "B02", "distance": 30, "code": null },
+          { "id": "3", "name": "B03", "distance": 50, "code": null },
+          { "id": "4", "name": "B04", "distance": 70, "code": null },
+          { "id": "5", "name": "B05", "distance": 90, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 2",
+        "code": null,
+        "length": 105,
+        "connected": true,
+        "bollards": [
+          { "id": "8", "name": "B06", "distance": 10, "code": null },
+          { "id": "9", "name": "B07", "distance": 30, "code": null },
+          { "id": "10", "name": "B08", "distance": 50, "code": null },
+          { "id": "11", "name": "B09", "distance": 70, "code": null },
+          { "id": "12", "name": "B10", "distance": 90, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 3",
+        "code": null,
+        "length": 105,
+        "connected": true,
+        "bollards": [
+          { "id": "14", "name": "B11", "distance": 10, "code": null },
+          { "id": "15", "name": "B12", "distance": 30, "code": null },
+          { "id": "16", "name": "B13", "distance": 50, "code": null },
+          { "id": "17", "name": "B14", "distance": 70, "code": null },
+          { "id": "18", "name": "B15", "distance": 90, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 4",
+        "code": null,
+        "length": 105,
+        "connected": true,
+        "bollards": [
+          { "id": "20", "name": "B16", "distance": 10, "code": null },
+          { "id": "21", "name": "B17", "distance": 30, "code": null },
+          { "id": "22", "name": "B18", "distance": 50, "code": null },
+          { "id": "23", "name": "B19", "distance": 70, "code": null },
+          { "id": "24", "name": "B20", "distance": 90, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 5",
+        "code": null,
+        "length": 210,
+        "connected": true,
+        "bollards": [
+          { "id": "33", "name": "B21", "distance": 10, "code": null },
+          { "id": "34", "name": "B22", "distance": 30, "code": null },
+          { "id": "35", "name": "B23", "distance": 50, "code": null },
+          { "id": "36", "name": "B24", "distance": 70, "code": null },
+          { "id": "37", "name": "B25", "distance": 90, "code": null },
+          { "id": "38", "name": "B26", "distance": 110, "code": null },
+          { "id": "39", "name": "B27", "distance": 130, "code": null },
+          { "id": "40", "name": "B28", "distance": 150, "code": null },
+          { "id": "98", "name": "B29", "distance": 170, "code": null },
+          { "id": "99", "name": "B30", "distance": 190, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 6",
+        "code": null,
+        "length": 210,
+        "connected": true,
+        "bollards": [
+          { "id": "56", "name": "B6-1", "distance": 10, "code": null },
+          { "id": "57", "name": "B6-2", "distance": 40, "code": null },
+          { "id": "58", "name": "B6-3", "distance": 70, "code": null },
+          { "id": "59", "name": "B6-4", "distance": 100, "code": null },
+          { "id": "100", "name": "B6-5", "distance": 130, "code": null },
+          { "id": "101", "name": "B6-6", "distance": 160, "code": null },
+          { "id": "102", "name": "B6-7", "distance": 190, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 7",
+        "code": null,
+        "length": 210,
+        "connected": true,
+        "bollards": [
+          { "id": "60", "name": "B7-1", "distance": 10, "code": null },
+          { "id": "61", "name": "B7-2", "distance": 40, "code": null },
+          { "id": "62", "name": "B7-3", "distance": 70, "code": null },
+          { "id": "63", "name": "B7-4", "distance": 100, "code": null },
+          { "id": "103", "name": "B7-5", "distance": 130, "code": null },
+          { "id": "104", "name": "B7-6", "distance": 160, "code": null },
+          { "id": "105", "name": "B7-7", "distance": 190, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 8",
+        "code": null,
+        "length": 210,
+        "connected": false,
+        "bollards": [
+          { "id": "64", "name": "B8-1", "distance": 10, "code": null },
+          { "id": "65", "name": "B8-2", "distance": 40, "code": null },
+          { "id": "66", "name": "B8-3", "distance": 70, "code": null },
+          { "id": "67", "name": "B8-4", "distance": 100, "code": null },
+          { "id": "106", "name": "B8-5", "distance": 130, "code": null },
+          { "id": "107", "name": "B8-6", "distance": 160, "code": null },
+          { "id": "108", "name": "B8-7", "distance": 190, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 9",
+        "code": null,
+        "length": 140,
+        "connected": true,
+        "bollards": [
+          { "id": "68", "name": "B9-2", "distance": 40, "code": null },
+          { "id": "69", "name": "B9-3", "distance": 70, "code": null },
+          { "id": "70", "name": "B9-4", "distance": 100, "code": null },
+          { "id": "77", "name": "B9-1", "distance": 10, "code": null },
+          { "id": "109", "name": "B9-5", "distance": 120, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 10",
+        "code": null,
+        "length": 145,
+        "connected": false,
+        "bollards": [
+          { "id": "72", "name": "B10-2", "distance": 40, "code": null },
+          { "id": "73", "name": "B10-3", "distance": 70, "code": null },
+          { "id": "74", "name": "B10-4", "distance": 100, "code": null },
+          { "id": "76", "name": "B10-1", "distance": 10, "code": null },
+          { "id": "110", "name": "B10-5", "distance": 130, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 11",
+        "code": null,
+        "length": 200,
+        "connected": true,
+        "bollards": [
+          { "id": "78", "name": "B11-1", "distance": 10, "code": null },
+          { "id": "79", "name": "B11-2", "distance": 50, "code": null },
+          { "id": "80", "name": "B11-3", "distance": 90, "code": null },
+          { "id": "81", "name": "B11-4", "distance": 130, "code": null },
+          { "id": "111", "name": "B11-5", "distance": 170, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 12",
+        "code": null,
+        "length": 200,
+        "connected": true,
+        "bollards": [
+          { "id": "83", "name": "B12-2", "distance": 50, "code": null },
+          { "id": "84", "name": "B12-3", "distance": 90, "code": null },
+          { "id": "85", "name": "B12-1", "distance": 10, "code": null },
+          { "id": "86", "name": "33", "distance": 130, "code": null },
+          { "id": "112", "name": "B12-4", "distance": 170, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 13",
+        "code": null,
+        "length": 200,
+        "connected": true,
+        "bollards": [
+          { "id": "88", "name": "B13-1", "distance": 10, "code": null },
+          { "id": "89", "name": "B13-2", "distance": 50, "code": null },
+          { "id": "90", "name": "B13-3", "distance": 90, "code": null },
+          { "id": "91", "name": "B13-4", "distance": 130, "code": null },
+          { "id": "113", "name": "B13-5", "distance": 170, "code": null }
+        ]
+      },
+      {
+        "id": null,
+        "name": "Berth 14",
+        "code": null,
+        "length": 200,
+        "connected": true,
+        "bollards": [
+          { "id": "93", "name": "B14-1", "distance": 10, "code": null },
+          { "id": "94", "name": "B14-2", "distance": 50, "code": null },
+          { "id": "95", "name": "B14-3", "distance": 90, "code": null },
+          { "id": "96", "name": "B14-4", "distance": 130, "code": null },
+          { "id": "114", "name": "B14-5", "distance": 170, "code": null }
+        ]
+      }
+    ],
+    "schedules": [],
+    "schedule_NoneWorkingZone": [
+      {
+        "id": "NoneWorkingZone_5",
+        "name": "5",
+        "rowVersion": "AAAAAAACGxg=",
+        "backgroundColor": "0xF1F0EF",
+        "foregroundColor": "0x000000",
+        "borderColor": "0x302E2C",
+        "borderThickness": 1,
+        "description": "Refurbishment",
+        "startBollardId": "91",
+        "endBollardId": "95",
+        "startDate": "2021/12/04 00:00",
+        "endDate": "2021/12/30 00:00",
+        "reason": "Maintenance",
+        "image": null,
+        "companyId": null,
+        "companyLineServiceId": null,
+        "operationTimeLocked": false,
+        "moveLocked": false,
+        "isAllowSave": false
+      }
+    ]
+  },
+  "isSuccessful": true,
+  "tag": null,
+  "message": []
+}

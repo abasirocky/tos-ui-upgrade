@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "checkJs": false,
+    "target": "esnext",
+    "resolveJsonModule": true,
+    "module": "esnext",
+    "strict": false,
+    "allowJs": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "strictNullChecks":false,
+    "types": ["webpack-env"],
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "paths": {
+      "@/*": ["src/*"]
+    },
+    "lib": ["esnext", "dom", "dom.iterable", "scripthost"],
+    "skipLibCheck": true
+  },
+}

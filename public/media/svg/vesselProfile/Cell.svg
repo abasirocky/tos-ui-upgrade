@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8.9880123mm"
+   height="2.017699mm"
+   viewBox="0 0 8.9880123 2.017699"
+   version="1.1"
+   id="svg25885"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Cell.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25887"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="-4.0621943"
+     inkscape:cy="292.47799"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs25882">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient19884"
+       id="linearGradient21342"
+       gradientUnits="userSpaceOnUse"
+       x1="220.12482"
+       y1="172.13"
+       x2="227.70518"
+       y2="172.13" />
+    <linearGradient
+       id="linearGradient19884"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fdfdfd;stop-opacity:1;"
+         offset="0"
+         id="stop19882" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient18347"
+       id="linearGradient21344"
+       gradientUnits="userSpaceOnUse"
+       x1="219.67999"
+       y1="172.13"
+       x2="228.14999"
+       y2="172.13" />
+    <linearGradient
+       id="linearGradient18347"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#676767;stop-opacity:1;"
+         offset="0"
+         id="stop18345" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-106.56751,-71.360271)">
+    <polygon
+       class="st126"
+       points="227.65,165.02 227.65,168.58 220.18,168.58 220.18,165.02 227.26,165.02 "
+       id="polygon12372-2"
+       style="fill:url(#linearGradient21342);fill-opacity:1;stroke:url(#linearGradient21344);stroke-width:0.116704;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.1847058,0,0,0.54877926,-154.21188,-19.16726)" />
+  </g>
+</svg>

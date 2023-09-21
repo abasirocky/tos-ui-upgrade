@@ -1,0 +1,69 @@
+{
+  "FaultDetails": null,
+  "Message": null,
+  "ResponseCode": null,
+  "Result": [
+    {
+      "BorderColor": "#777",
+      "Category": "Object",
+      "FacilityCode": null,
+      "FillColor": "#ddd",
+      "Subcategory": null
+    },
+    {
+      "BorderColor": "#ff0",
+      "Category": "Object",
+      "FacilityCode": null,
+      "FillColor": "#ffff9e",
+      "Subcategory": "Highlight"
+    },
+    {
+      "BorderColor": null,
+      "Category": "Layer",
+      "FacilityCode": null,
+      "FillColor": "#ccc",
+      "Subcategory": null
+    },
+    {
+      "BorderColor": "#E4DCCF",
+      "Category": "Layer",
+      "FacilityCode": null,
+      "FillColor": "#F8F5E4",
+      "Subcategory": "0"
+    },
+    {
+      "BorderColor": null,
+      "Category": "Layer",
+      "FacilityCode": null,
+      "FillColor": "#7149C6",
+      "Subcategory": "1"
+    },
+    {
+      "BorderColor": null,
+      "Category": "Layer",
+      "FacilityCode": null,
+      "FillColor": "#F7C04A",
+      "Subcategory": "2"
+    },
+    {
+      "BorderColor": null,
+      "Category": "Layer",
+      "FacilityCode": null,
+      "FillColor": "#539165",
+      "Subcategory": "3"
+    },
+    {
+      "BorderColor": null,
+      "Category": "Layer",
+      "FacilityCode": null,
+      "FillColor": "#FE6244",
+      "Subcategory": "4"
+    }
+  ],
+  "Success": true,
+  "HasPaging": false,
+  "PageCount": 0,
+  "PageIndex": 0,
+  "PageSize": 0,
+  "ResultsCount": 8
+}

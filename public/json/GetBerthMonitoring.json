@@ -1,0 +1,239 @@
+{
+  "isvalid": true,
+  "model": {
+    "Berths": [
+      {
+        "Id": 4,
+        "name": "Berth 1",
+        "length": 120,
+        "bollards": [
+          {
+            "id": "1",
+            "name": "B001",
+            "distance": 0
+          },
+          {
+            "id": "2",
+            "name": "B002",
+            "distance": 20
+          },
+          {
+            "id": "3",
+            "name": "B003",
+            "distance": 40
+          },
+          {
+            "id": "4",
+            "name": "B004",
+            "distance": 60
+          },
+          {
+            "id": "5",
+            "name": "B005",
+            "distance": 80
+          },
+          {
+            "id": "7",
+            "name": "B006",
+            "distance": 100
+          }
+        ]
+      },
+      {
+        "Id": 6,
+        "name": "Berth 2",
+        "length": 120,
+        "bollards": [
+          {
+            "id": "8",
+            "name": "B007",
+            "distance": 0
+          },
+          {
+            "id": "9",
+            "name": "B008",
+            "distance": 20
+          },
+          {
+            "id": "10",
+            "name": "B009",
+            "distance": 40
+          },
+          {
+            "id": "11",
+            "name": "B010",
+            "distance": 60
+          },
+          {
+            "id": "12",
+            "name": "B011",
+            "distance": 80
+          },
+          {
+            "id": "13",
+            "name": "B012",
+            "distance": 100
+          }
+        ]
+      },
+      {
+        "Id": 7,
+        "name": "Berth 3",
+        "length": 120,
+        "bollards": [
+          {
+            "id": "14",
+            "name": "B013",
+            "distance": 0
+          },
+          {
+            "id": "15",
+            "name": "B014",
+            "distance": 20
+          },
+          {
+            "id": "16",
+            "name": "B015",
+            "distance": 40
+          },
+          {
+            "id": "17",
+            "name": "B016",
+            "distance": 60
+          },
+          {
+            "id": "18",
+            "name": "B017",
+            "distance": 80
+          },
+          {
+            "id": "19",
+            "name": "B018",
+            "distance": 100
+          }
+        ]
+      },
+      {
+        "Id": 9,
+        "name": "Berth 4",
+        "length": 120,
+        "bollards": [
+          {
+            "id": "20",
+            "name": "B019",
+            "distance": 0
+          },
+          {
+            "id": "21",
+            "name": "B020",
+            "distance": 20
+          },
+          {
+            "id": "22",
+            "name": "B021",
+            "distance": 40
+          },
+          {
+            "id": "23",
+            "name": "B022",
+            "distance": 60
+          },
+          {
+            "id": "24",
+            "name": "B023",
+            "distance": 80
+          },
+          {
+            "id": "25",
+            "name": "B024",
+            "distance": 100
+          }
+        ]
+      },
+      {
+        "Id": 15,
+        "name": "Berth 5",
+        "length": 160,
+        "bollards": [
+          {
+            "id": "33",
+            "name": "B025",
+            "distance": 0
+          },
+          {
+            "id": "34",
+            "name": "B026",
+            "distance": 20
+          },
+          {
+            "id": "35",
+            "name": "B027",
+            "distance": 40
+          },
+          {
+            "id": "36",
+            "name": "B028",
+            "distance": 60
+          },
+          {
+            "id": "37",
+            "name": "B029",
+            "distance": 80
+          },
+          {
+            "id": "38",
+            "name": "B030",
+            "distance": 100
+          },
+          {
+            "id": "39",
+            "name": "B031",
+            "distance": 120
+          },
+          {
+            "id": "40",
+            "name": "B032",
+            "distance": 140
+          }
+        ]
+      }
+    ],
+    "VoyageInBerths": [
+      {
+        "id": "1024",
+        "vesselName": "KOTA GANDING",
+        "voyageNoIn": "01V",
+        "voyageNoOut": "02V",
+        "startBollardId": "1",
+        "endBollardId": "7",
+        "LOA": 60,
+        "side": "Port",
+        "nationality": "tz",
+        "vesselType": "GeneralCargo"
+      },
+      {
+        "id": "1025",
+        "vesselName": "MSC Athena",
+        "voyageNoIn": "012W",
+        "voyageNoOut": "012E",
+        "startBollardId": "10",
+        "endBollardId": "17",
+        "LOA": 130,
+        "side": "Sea",
+        "nationality": "fr",
+        "vesselType": "ContainerShip"
+      }
+    ],
+    "VoyageInAnchorages": [
+      {
+        "id": "1013",
+        "vesselName": "EVER LOVELY",
+        "voyageNoIn": "014W",
+        "voyageNoOut": "014E",
+        "LOA": 160,
+        "nationality": "sg",
+        "vesselType": "Ro-Ro"
+      }
+    ]
+  }
+}

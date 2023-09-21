@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="12.313557mm"
+   height="14.76133mm"
+   viewBox="0 0 12.313557 14.76133"
+   version="1.1"
+   id="svg24606"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Body.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview24608"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="1.3540648"
+     inkscape:cy="205.81784"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs24603">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15407"
+       id="linearGradient21998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.82902466,0,0,1,22.279151,-0.2216639)"
+       x1="41.750866"
+       y1="236.22914"
+       x2="144.46498"
+       y2="236.22914" />
+    <linearGradient
+       id="linearGradient15407"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#1c5b7c;stop-opacity:1;"
+         offset="0"
+         id="stop15405" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-104.90474,-94.00775)">
+    <g
+       id="g22007"
+       transform="translate(43.63768,-131.01211)">
+      <g
+         id="g21996"
+         transform="matrix(0.17493457,0,0,1,50.549335,0)">
+        <path
+           id="path21949"
+           style="fill:url(#linearGradient21998);fill-opacity:1;stroke:none;stroke-width:1.02341;stroke-dasharray:none"
+           class="st100"
+           d="m 131.65656,232.23182 c -23.4447,-0.006 -46.903465,-0.0453 -70.364694,-0.0357 v 7.58507 h 70.364694 z" />
+        <path
+           id="path21946"
+           style="stroke:none;stroke-width:1.02252"
+           d="m 131.65656,225.01986 -70.389499,0.0233 v 7.19078 h 70.389499 z" />
+      </g>
+    </g>
+  </g>
+</svg>

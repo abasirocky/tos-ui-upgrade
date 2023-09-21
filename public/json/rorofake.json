@@ -1,0 +1,115 @@
+{
+  "FaultDetails": null,
+  "Message": null,
+  "ResponseCode": null,
+  "Result": [
+    {
+      "Area": "RORO1",
+      "LaneNumber": 4,
+      "Vehicles": [
+        {
+          "HandlingUid": 15298,
+          "Length": 3.7,
+          "Offset": 0,
+          "PlannedOut": true,
+          "Present": true,
+          "Sequence": 1,
+          "Type": "CAR",
+          "Uid": 3167,
+          "UpdateCount": 1,
+          "VIN": "JAN005",
+          "Weight": 1670,
+          "Width": 1.616
+        },
+        {
+          "HandlingUid": 15296,
+          "Length": 4.9,
+          "Offset": 3.9,
+          "PlannedOut": true,
+          "Present": true,
+          "Sequence": 2,
+          "Type": "CAR",
+          "Uid": 3168,
+          "UpdateCount": 0,
+          "VIN": "SDF456",
+          "Weight": 2000,
+          "Width": 1.55
+        },
+        {
+          "HandlingUid": 15294,
+          "Length": 4.1,
+          "Offset": 9,
+          "PlannedOut": true,
+          "Present": true,
+          "Sequence": 3,
+          "Type": null,
+          "Uid": 3169,
+          "UpdateCount": 0,
+          "VIN": "JAN001",
+          "Weight": 1500,
+          "Width": null
+        },
+        {
+          "HandlingUid": 15295,
+          "Length": 4.4,
+          "Offset": 13.3,
+          "PlannedOut": true,
+          "Present": true,
+          "Sequence": 4,
+          "Type": "SUV",
+          "Uid": 3170,
+          "UpdateCount": 0,
+          "VIN": "JAN002",
+          "Weight": 1850,
+          "Width": 1.5
+        }
+      ]
+    },
+    {
+      "Area": "RORO1",
+      "LaneNumber": 1,
+      "Vehicles": [
+        {
+          "HandlingUid": 15299,
+          "Length": 4.315,
+          "Offset": 5.4,
+          "PlannedOut": false,
+          "Present": true,
+          "Sequence": 1,
+          "Type": "SUV",
+          "Uid": 3178,
+          "UpdateCount": 2,
+          "VIN": "JAN006",
+          "Weight": 1160,
+          "Width": 1.822
+        }
+      ]
+    },
+    {
+      "Area": "RORO1",
+      "LaneNumber": 3,
+      "Vehicles": [
+        {
+          "HandlingUid": 15297,
+          "Length": 5.2,
+          "Offset": 0.2,
+          "PlannedOut": false,
+          "Present": true,
+          "Sequence": 1,
+          "Type": "SUV",
+          "Uid": 3180,
+          "UpdateCount": 0,
+          "VIN": "JAN004",
+          "Weight": 2100,
+          "Width": 1.9
+        }
+      ]
+    }
+  ],
+  "Success": true,
+  "HasPaging": false,
+  "PageCount": 0,
+  "PageIndex": 0,
+  "PageSize": 0,
+  "ResultsCount": 3
+}

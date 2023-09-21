@@ -1,0 +1,54 @@
+{
+  "name": "terminal-control-services",
+  "version": "1.0.18",
+  "private": false,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "npm-publish": "rollup -c && npm publish"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "rollup": "^1.31.1",
+    "rollup-plugin-typescript2": "^0.26.0",
+    "vue": "^2.6.11",
+    "vue-property-decorator": "^8.3.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.18.0",
+    "@typescript-eslint/parser": "^2.18.0",
+    "@vue/cli-plugin-babel": "~4.2.0",
+    "@vue/cli-plugin-eslint": "~4.2.0",
+    "@vue/cli-plugin-typescript": "~4.2.0",
+    "@vue/cli-service": "~4.2.0",
+    "@vue/eslint-config-typescript": "^5.0.1",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "typescript": "~3.7.5",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "main": "dist/terminalcontrolservices.umd.js",
+  "module": "dist/terminalcontrolservices.module.js",
+  "files": [
+    "dist/*"
+  ],
+  "publishConfig": {
+    "registry": "https://gitlab.com/api/v4/projects/37052966/packages/npm/"
+  },
+  "description": "// All the terminal control services are grouped inside this component // Terminal control exists out of multiple sub-components: YardView, CargoSystem, MasterData, etc..)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abasirocky/terminal-control-services.git"
+  },
+  "keywords": [
+    "terminal-service-control"
+  ],
+  "author": "houtan abasi rocky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abasirocky/terminal-control-services/issues"
+  },
+  "homepage": "https://github.com/abasirocky/terminal-control-services#readme"
+}

@@ -1,0 +1,4324 @@
+{
+  "FaultDetails": null,
+  "Message": null,
+  "ResponseCode": null,
+  "Result": [
+    {
+      "Area": "A001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "A001",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "A001",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "A001",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "A001",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 7
+    },
+    {
+      "Area": "A001",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 7
+    },
+    {
+      "Area": "A001",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "A001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 13
+    },
+    {
+      "Area": "A001",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 13
+    },
+    {
+      "Area": "A001",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 13
+    },
+    {
+      "Area": "A001",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 13 
+    },
+    {
+      "Area": "A001",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 13
+    },
+    {
+      "Area": "A001",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 18
+    },
+    {
+      "Area": "A001",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 18
+    },
+    {
+      "Area": "A002",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "A002",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "A002",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 10,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "A002",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 3,
+      "Row": 3
+    },
+    {
+      "Area": "A002",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A002",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A002",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 45,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A002",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A002",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A002",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A002",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "A002",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 48,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "A002",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "A002",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "A002",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "A002",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "A002",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "A002",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "A002",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 13
+    },
+    {
+      "Area": "A002",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 16
+    },
+    {
+      "Area": "A002",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 16
+    },
+    {
+      "Area": "A002",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 16
+    },
+    {
+      "Area": "A002",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 16
+    },
+    {
+      "Area": "A002",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 19
+    },
+    {
+      "Area": "A002",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 19
+    },
+    {
+      "Area": "A002",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 19
+    },
+    {
+      "Area": "A002",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "A002",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 21
+    },
+    {
+      "Area": "A002",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 21
+    },
+    {
+      "Area": "A002",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 21
+    },
+    {
+      "Area": "A003",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A003",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A003",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A003",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A003",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A003",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A003",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "A003",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "A003",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "A003",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "A003",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 6
+    },
+    {
+      "Area": "A003",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "A003",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 10
+    },
+    {
+      "Area": "A003",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 10
+    },
+    {
+      "Area": "A003",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 10
+    },
+    {
+      "Area": "A003",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 10
+    },
+    {
+      "Area": "A003",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 14
+    },
+    {
+      "Area": "A003",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "A003",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "A003",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "A003",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "A003",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "A003",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "A003",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "A003",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "A003",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 21
+    },
+    {
+      "Area": "A003",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "A003",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "AA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 1
+    },
+    {
+      "Area": "AA01",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA01",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA01",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA01",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA01",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA01",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA01",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 4,
+      "Row": 4
+    },
+    {
+      "Area": "AA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA01",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA01",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 6
+    },
+    {
+      "Area": "AA01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA01",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA01",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA02",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA02",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA02",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA02",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "AA02",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA02",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "AA02",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA02",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 2
+    },
+    {
+      "Area": "AA02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA02",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA02",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA02",
+      "Bay": 14,
+      "Bay2": 15,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA02",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 3
+    },
+    {
+      "Area": "AA02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA02",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 4
+    },
+    {
+      "Area": "AA02",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA02",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA02",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA02",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 4
+    },
+    {
+      "Area": "AA02",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA02",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA02",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA02",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA02",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA02",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA02",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 1
+    },
+    {
+      "Area": "AA03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA03",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA03",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "AA03",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "AA03",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "AA03",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "AA03",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA03",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA03",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA03",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AA03",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 4
+    },
+    {
+      "Area": "AA03",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 4
+    },
+    {
+      "Area": "AA03",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA03",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 5
+    },
+    {
+      "Area": "AA03",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA03",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA03",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 6
+    },
+    {
+      "Area": "AA03",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA03",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA03",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AA03",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AB01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AB01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AB01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AB01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AB01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AB01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AB01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AB01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AB01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AB01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "AB01",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AB01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AB01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AB01",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AB01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AB01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AB01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AB01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AB01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AB01",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AB02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AB02",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AB02",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AB03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AB03",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AB03",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AC01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AC01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AC01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AC01",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AC02",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AC02",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AC02",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AC02",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AC02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AC03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AC03",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AC03",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AC03",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AC03",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AC03",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "AD01",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "AD01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AD02",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "AD02",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "AD02",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AD02",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "AD03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "AD03",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B001",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B001",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B001",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B001",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B001",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B001",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B001",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B001",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "B001",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B001",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "B001",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 6
+    },
+    {
+      "Area": "B001",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "B001",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "B001",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "B001",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "B001",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "B001",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "B001",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 8
+    },
+    {
+      "Area": "B001",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B001",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B001",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B001",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B001",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B001",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 10
+    },
+    {
+      "Area": "B001",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 10
+    },
+    {
+      "Area": "B001",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 11
+    },
+    {
+      "Area": "B001",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B001",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B001",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B001",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B001",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B001",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 13
+    },
+    {
+      "Area": "B001",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 13
+    },
+    {
+      "Area": "B001",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "B001",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "B001",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "B001",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "B001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 17
+    },
+    {
+      "Area": "B001",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 17
+    },
+    {
+      "Area": "B001",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 17
+    },
+    {
+      "Area": "B001",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 18
+    },
+    {
+      "Area": "B001",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 18
+    },
+    {
+      "Area": "B001",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "B001",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "B001",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "B001",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B001",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B001",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B001",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B001",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B001",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B001",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B001",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 24
+    },
+    {
+      "Area": "B001",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 24
+    },
+    {
+      "Area": "B001",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 24
+    },
+    {
+      "Area": "B001",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 24
+    },
+    {
+      "Area": "B001",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 24
+    },
+    {
+      "Area": "B001",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 24
+    },
+    {
+      "Area": "B002",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B002",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B002",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B002",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "B002",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B002",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B002",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "B002",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "B002",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "B002",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "B002",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 9
+    },
+    {
+      "Area": "B002",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B002",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B002",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 13
+    },
+    {
+      "Area": "B002",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "B002",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 17
+    },
+    {
+      "Area": "B002",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 17
+    },
+    {
+      "Area": "B002",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 17
+    },
+    {
+      "Area": "B002",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 18
+    },
+    {
+      "Area": "B002",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 19
+    },
+    {
+      "Area": "B002",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 22
+    },
+    {
+      "Area": "B002",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B002",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B002",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B002",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 22
+    },
+    {
+      "Area": "B002",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "B002",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "B002",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "B002",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "B002",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "B002",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "B003",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 15,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "B003",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "B003",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 4
+    },
+    {
+      "Area": "B003",
+      "Bay": 9,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "B003",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "B003",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 8
+    },
+    {
+      "Area": "B003",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 8
+    },
+    {
+      "Area": "B003",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 8
+    },
+    {
+      "Area": "B003",
+      "Bay": 12,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 10
+    },
+    {
+      "Area": "B003",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B003",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 12
+    },
+    {
+      "Area": "B003",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 14
+    },
+    {
+      "Area": "B003",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "B003",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 15
+    },
+    {
+      "Area": "B003",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 18
+    },
+    {
+      "Area": "B003",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 21
+    },
+    {
+      "Area": "B003",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 21
+    },
+    {
+      "Area": "B003",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 21
+    },
+    {
+      "Area": "B003",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 23
+    },
+    {
+      "Area": "B003",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 23
+    },
+    {
+      "Area": "B003",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 23
+    },
+    {
+      "Area": "BA01",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 3,
+      "Row": 1
+    },
+    {
+      "Area": "BA01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BA01",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 3,
+      "Row": 2
+    },
+    {
+      "Area": "BA01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "BA01",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 3,
+      "Row": 3
+    },
+    {
+      "Area": "BA01",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "BA01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "BA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 3
+    },
+    {
+      "Area": "BA01",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 3
+    },
+    {
+      "Area": "BA01",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 3,
+      "Row": 3
+    },
+    {
+      "Area": "BA01",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "BA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 4
+    },
+    {
+      "Area": "BA01",
+      "Bay": 8,
+      "Bay2": 9,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "BA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 5
+    },
+    {
+      "Area": "BA01",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "BA01",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 3,
+      "Row": 5
+    },
+    {
+      "Area": "BA01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 6
+    },
+    {
+      "Area": "BA02",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 45,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BA02",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 30,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "BA02",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "BA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "BA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "BA03",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "BB01",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "BB01",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "BB01",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "BB02",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BB02",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "BB02",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "BB02",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "BB02",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "BB02",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "BB03",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BB03",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "BC02",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BC02",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "BC02",
+      "Bay": 11,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "BC03",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BC03",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BC03",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "BC03",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "BC03",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "BC03",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 5
+    },
+    {
+      "Area": "BC03",
+      "Bay": 13,
+      "Bay2": 14,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "BD01",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BD01",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BD01",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BD01",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BD01",
+      "Bay": 7,
+      "Bay2": 8,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "BD01",
+      "Bay": 14,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "BD02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BD02",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BD02",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "BD02",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "BD03",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "BD03",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "BD03",
+      "Bay": 7,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "C001",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "C001",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "C001",
+      "Bay": 8,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "C001",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "C001",
+      "Bay": 5,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "C001",
+      "Bay": 10,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "C001",
+      "Bay": 13,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "C001",
+      "Bay": 6,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "C001",
+      "Bay": 16,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 4
+    },
+    {
+      "Area": "C001",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "C001",
+      "Bay": 5,
+      "Bay2": 6,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "C001",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "C001",
+      "Bay": 15,
+      "Bay2": 16,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 7
+    },
+    {
+      "Area": "C001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 8
+    },
+    {
+      "Area": "C001",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 8
+    },
+    {
+      "Area": "C001",
+      "Bay": 4,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 9
+    },
+    {
+      "Area": "C001",
+      "Bay": 3,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 10
+    },
+    {
+      "Area": "C001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 18
+    },
+    {
+      "Area": "C001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 20
+    },
+    {
+      "Area": "C001",
+      "Bay": 9,
+      "Bay2": 10,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 20
+    },
+    {
+      "Area": "C001",
+      "Bay": 11,
+      "Bay2": 12,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 20
+    },
+    {
+      "Area": "C001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 22
+    },
+    {
+      "Area": "C001",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 24
+    },
+    {
+      "Area": "REF1",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "REF1",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 2
+    },
+    {
+      "Area": "REF1",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 25
+    },
+    {
+      "Area": "REF2",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "REF2",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "REF2",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 3
+    },
+    {
+      "Area": "REF2",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 17
+    },
+    {
+      "Area": "REF3",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 1
+    },
+    {
+      "Area": "REF3",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 2,
+      "Row": 17
+    },
+    {
+      "Area": "REF3",
+      "Bay": 2,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 22
+    },
+    {
+      "Area": "REF4",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 6
+    },
+    {
+      "Area": "REF4",
+      "Bay": 1,
+      "Bay2": null,
+      "Bay3": null,
+      "ContainerLength": 20,
+      "MaxLayer": 1,
+      "Row": 24
+    },
+    {
+      "Area": "TST1",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 2,
+      "Row": 1
+    },
+    {
+      "Area": "TST1",
+      "Bay": 1,
+      "Bay2": 2,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 2
+    },
+    {
+      "Area": "TST1",
+      "Bay": 3,
+      "Bay2": 4,
+      "Bay3": null,
+      "ContainerLength": 40,
+      "MaxLayer": 1,
+      "Row": 2
+    }
+  ],
+  "Success": true,
+  "HasPaging": false,
+  "PageCount": 0,
+  "PageIndex": 0,
+  "PageSize": 0,
+  "ResultsCount": 479
+}

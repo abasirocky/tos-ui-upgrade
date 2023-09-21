@@ -1,0 +1,67 @@
+{
+  "FaultDetails": null,
+  "Message": null,
+  "ResponseCode": null,
+  "Result": [
+    {
+      "Area": "RORO1",
+      "LaneNumber": 2,
+      "Vehicles": [
+        {
+          "HandlingUid": 15298,
+          "Length": 3,
+          "Offset": 0.2,
+          "PlannedOut": true,
+          "Present": true,
+          "Sequence": 1,
+          "Type": "CAR",
+          "Uid": 3167,
+          "UpdateCount": 1,
+          "VIN": "JAN005",
+          "Weight": 1670,
+          "Width": null
+        }
+      ]
+    },
+    {
+      "Area": "RORO1",
+      "LaneNumber": 3,
+      "Vehicles": [
+        {
+          "HandlingUid": 2,
+          "Length": 3,
+          "Offset": 0.2,
+          "PlannedOut": false,
+          "Present": true,
+          "Sequence": 1,
+          "Type": "CAR",
+          "Uid": 31780,
+          "UpdateCount": 2,
+          "VIN": "JAN0061",
+          "Weight": 1160,
+          "Width": null
+        },
+        {
+          "HandlingUid": 2,
+          "Length": 2,
+          "Offset": 3.4,
+          "PlannedOut": false,
+          "Present": true,
+          "Sequence": 2,
+          "Type": "CAR",
+          "Uid": 3144,
+          "UpdateCount": 2,
+          "VIN": "JAN006",
+          "Weight": 1160,
+          "Width": null
+        }
+      ]
+    }
+  ],
+  "Success": true,
+  "HasPaging": false,
+  "PageCount": 0,
+  "PageIndex": 0,
+  "PageSize": 0,
+  "ResultsCount": 3
+}

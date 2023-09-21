@@ -1,0 +1,112 @@
+{
+    "FaultDetails": null,
+    "Message": null,
+    "ResponseCode": null,
+    "Result": [
+                      {
+                  "Area": "RORO1",
+                  "LaneNumber": 1,
+                  "Vehicles": [
+                    {
+                      "HandlingUid": 15298,
+                      "Length": 5.8,
+                      "Offset": 0,
+                      "PlannedOut": true,
+                      "Present": true,
+                      "Sequence": 1,
+                      "Type": "SUV",
+                      "Uid": 3167,
+                      "UpdateCount": 1,
+                      "VIN": "JAN0057",
+                      "Weight": 1670,
+                      "Width": 2
+                    } 
+      
+                  ]
+                },
+                {
+                    "Area": "RORO1",
+                    "LaneNumber": 2,
+                    "Vehicles": [
+                      {
+                        "HandlingUid": 15298,
+                        "Length": 5.8,
+                        "Offset": 0,
+                        "PlannedOut": true,
+                        "Present": true,
+                        "Sequence": 1,
+                        "Type": "SUV",
+                        "Uid": 3167,
+                        "UpdateCount": 1,
+                        "VIN": "JAN00570",
+                        "Weight": 1670,
+                        "Width": 1.8
+                      },
+                      {
+                        "HandlingUid": 15296,
+                        "Length": 4,
+                        "Offset": 6,
+                        "PlannedOut": true,
+                        "Present": true,
+                        "Sequence": 2,
+                        "Type": "SUV",
+                        "Uid": 3168,
+                        "UpdateCount": 0,
+                        "VIN": "SDF45671",
+                        "Weight": 2000,
+                        "Width": 1.55
+                      },
+                      {
+                        "HandlingUid": 15297,
+                        "Length": 9.8,
+                        "Offset": 10,
+                        "PlannedOut": true,
+                        "Present": true,
+                        "Sequence": 3,
+                        "Type": "SUV",
+                        "Uid": 3169,
+                        "UpdateCount": 0,
+                        "VIN": "SDF45677",
+                        "Weight": 2000,
+                        "Width": 1.8
+                      },
+                      {
+                        "HandlingUid": 15298,
+                        "Length": 1.8,
+                        "Offset": 20,
+                        "PlannedOut": true,
+                        "Present": true,
+                        "Sequence": 4,
+                        "Type": "SUV",
+                        "Uid": 3167,
+                        "UpdateCount": 0,
+                        "VIN": "SDF45687",
+                        "Weight": 2000,
+                        "Width": 1
+                      },
+                      {
+                        "HandlingUid": 15300,
+                        "Length": 3.8,
+                        "Offset": 22,
+                        "PlannedOut": true,
+                        "Present": true,
+                        "Sequence": 5,
+                        "Type": "SUV",
+                        "Uid": 3167,
+                        "UpdateCount": 0,
+                        "VIN": "SDF45697",
+                        "Weight": 2000,
+                        "Width": 1.5
+                      }
+                    ]
+                  }
+           
+              ]       ,
+    "Success": true,
+    "HasPaging": false,
+    "PageCount": 0,
+    "PageIndex": 0,
+    "PageSize": 0,
+    "ResultsCount": 3
+  }
+  

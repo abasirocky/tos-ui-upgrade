@@ -1,0 +1,415 @@
+﻿@media (min-width: 992px) {
+  .header.header-fixed {
+    height: 40px !important;
+    z-index: 95 !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .header-fixed.subheader-fixed .subheader {
+    height: 40px;
+    top: 40px;
+    border: none !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .header-fixed.subheader-fixed.subheader-enabled .wrapper {
+    // padding-top: 80px;
+  }
+}
+
+h3.customLogo {
+  line-height: 40px !important;
+  font-size: 14px !important;
+  font-weight: bold !important;
+}
+
+.subheader.subheader-solid {
+  background-color: #ffffff !important;
+}
+
+.header-dark.header
+  .header-menu
+  .menu-nav
+  > .menu-item
+  > .menu-link
+  .menu-text {
+  color: #ffffff !important;
+}
+
+.saab-icon-normal {
+  fill: #ffffff !important;
+}
+
+// Start Mydropdown
+.ui.selection.Mydropdown {
+  height: 28px !important;
+  line-height: 4px !important;
+  font-size: 13px !important;
+}
+
+.ui.search.Mydropdown > input.search {
+  height: 25px !important;
+}
+
+// .ui.selection.Mydropdown>.delete.icon, .ui.selection.Mydropdown>.Mydropdown.icon, .ui.selection.Mydropdown>.search.icon {
+//  line-height: 5px !important;
+// }
+
+.ui.selection.Mydropdown > .delete.icon,
+.ui.selection.Mydropdown > .dropdown.icon,
+.ui.selection.Mydropdown > .search.icon {
+  line-height: 8px !important;
+}
+// End Mydropdown
+
+// Start Mybtn
+//Primary
+.Mybtn1-primary {
+  color: #ffffff !important;
+  background-color: #22b9ff !important;
+  border-radius: 2px !important;
+  max-height: 28px !important;
+  line-height: 13px !important;
+}
+.Mybtn1-primary:hover {
+  background-color: #00abfb !important;
+}
+
+.Mybtn1-primary > i {
+  color: #ffffff !important;
+}
+
+.Mybtn1-light-primary:hover {
+  background-color: #096fc9 !important;
+}
+
+.btn-group > .Mybtn1-primary.btn:not(:last-child):not(.dropdown-toggle),
+.btn-group > .btn-group:not(:last-child) > .Mybtn1-primary.btn {
+  border-top-right-radius: 0px !important;
+  border-bottom-right-radius: 0px !important;
+}
+.btn-group > Mybtn1-primary.btn:not(:first-child),
+.btn-group > Mybtn1-primary.btn-group:not(:first-child) > .btn {
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
+}
+
+//Warning
+.Mybtn1-warning {
+  color: #000000 !important;
+  background-color: #fab900 !important;
+  border-radius: 2px !important;
+  max-height: 28px !important;
+  line-height: 13px !important;
+}
+.Mybtn1-warning:hover {
+  background-color: #cf9905 !important;
+}
+
+//Danger
+.Mybtn1-danger {
+  color: #ffffff !important;
+  background-color: #da291c !important;
+  border-radius: 2px !important;
+  max-height: 28px !important;
+  line-height: 13px !important;
+}
+.Mybtn1-danger:hover {
+  background-color: #c90909 !important;
+}
+
+.Mybtn1-danger > i {
+  color: #ffffff !important;
+}
+
+.Mybtn-size1 {
+  max-height: 30px !important;
+}
+
+// End My-btn
+
+// Start Dashboard
+.MyDashboardDate {
+  border-radius: 2px !important;
+  background-color: #ceced3;
+  height: 28px;
+  line-height: 15px !important;
+}
+
+.MyDashboardDate > span > i {
+  vertical-align: bottom;
+  color: #373532 !important;
+}
+.MyDashboardDate > span {
+  color: #5e5d5c !important;
+}
+.MySubHeaderTitle {
+  font-size: 14px !important;
+  font-weight: bold !important;
+}
+.MyDashboardChartBox {
+  border-radius: 5px !important;
+  min-width: 35px;
+  min-height: 35px;
+  border-width: 1px !important;
+}
+
+.MyDashboardCardSize {
+  min-height: 418px !important;
+}
+
+.MyContent {
+  margin: 0px;
+  background-color: #bbb8b3;
+  height: 100%;
+}
+
+// .internalContentbg {
+//   // background-color: #707070;
+//   // background-color: #ebe7d1;
+//   background-color: #bbb8b3;
+// }
+
+.internalContentCoverHeight {
+  height: 100%;
+}
+
+.MySubheader {
+  position: relative;
+  top: 0 !important;
+  right: 0 !important;
+  left: 0 !important;
+  box-shadow: 0px 0px 2px 1px #373532 !important;
+  z-index: 94 !important;
+}
+
+@media (max-width: 991.98px) {
+  .subheader.subheader-solid {
+    width: 100%;
+  }
+}
+
+.MySettingIcon {
+  color: #00abfb;
+}
+
+.MySettingIcon:hover {
+  color: #096fc9 !important;
+}
+
+.MySettingButton {
+  background-color: transparent !important;
+  border: none !important;
+  // color: #004c94;
+}
+
+.MySettingButton:hover > i {
+  color: #3699FF !important;
+}
+.MySettingButton > i {
+  color: #00abfb !important;
+}
+
+// End Dashboard
+
+.input-group-append > .btn {
+  border-top-right-radius: 2px !important;
+  border-bottom-right-radius: 2px !important;
+}
+.btn-outline-primary {
+  border-radius: 2px !important;
+  border-radius: 2px !important;
+}
+
+.label.label-light-ArrivalNotice {
+  color: #0b467e !important;
+  background-color: #9ac0e4 !important;
+}
+.label.label-light-anchorage {
+  color: #225d64 !important;
+  background-color: #a4c3c7 !important;
+}
+.label.label-light-Berth {
+  color: #0e6b3b !important;
+  background-color: #9bdabb !important;
+}
+.label.label-light-Unberth {
+  color: #b43c14 !important;
+  background-color: #e5b3a5 !important;
+}
+.label.label-light-fullaway {
+  color: #ac7817 !important;
+  background-color: #f6dcaa !important;
+}
+
+.text-ArrivalNotice {
+  color: #0b467e !important;
+}
+.text-anchorage {
+  color: #225d64 !important;
+}
+.text-Berth {
+  color: #0e6b3b !important;
+}
+.text-Unberth {
+  color: #b43c14 !important;
+}
+.text-fullaway {
+  color: #ac7817 !important;
+}
+
+.bg-ArrivalNotice {
+  background-color: #0b467e !important;
+}
+.bg-anchorage {
+  background-color: #225d64 !important;
+}
+.bg-Berth {
+  background-color: #0e6b3b !important;
+}
+.bg-Unberth {
+  background-color: #b43c14 !important;
+}
+.bg-fullaway {
+  background-color: #ac7817 !important;
+}
+
+.alert-ArrivalNotice {
+  color: #0b467e !important;
+  background-color: #9ac0e4 !important;
+  border-color: #0b467e !important;
+}
+.alert-ArrivalNotice >i {
+  color: #0b467e !important;
+}
+.alert-ArrivalNotice:hover {
+  background-color: #ffffff !important;
+  cursor: hand;
+}
+.alert-anchorage {
+  color: #225d64 !important;
+  background-color: #a4c3c7 !important;
+  border-color: #225d64 !important;
+}
+.alert-anchorage > i {
+  color: #225d64 !important;
+}
+.alert-anchorage:hover {
+  background-color: #ffffff !important;
+  cursor: hand;
+}
+
+.alert-Berth {
+  color: #0e6b3b !important;
+  background-color: #9bdabb !important;
+  border-color: #0e6b3b !important;
+}
+.alert-Berth >i {
+  color: #0e6b3b !important;
+}
+.alert-Berth:hover {
+  background-color: #ffffff !important;
+  cursor: hand;
+}
+
+.alert-Unberth {
+  color: #b43c14 !important;
+  background-color: #e5b3a5 !important;
+  border-color: #b43c14 !important;
+}
+.alert-Unberth >i {
+  color: #b43c14 !important;
+}
+.alert-Unberth:hover {
+  background-color: #ffffff !important;
+  cursor: hand;
+}
+
+.alert-fullaway {
+  color: #ac7817 !important;
+  background-color: #f6dcaa !important;
+  border-color: #ac7817 !important;
+}
+.alert-fullaway > i {
+  color: #ac7817 !important;
+}
+.alert-fullaway:hover {
+  background-color: #ffffff !important;
+  cursor: hand;
+}
+ 
+.aside-menu .menu-nav > .menu-item > .menu-link {
+  padding: 16px 19px !important;
+}
+.aside-menu .menu-nav > .menu-item > .menu-link >i {
+  color: #dfdedd !important;
+  font-size: 1.8em !important;
+}
+
+// .aside-menu .menu-nav > .menu-item:hover  a i {
+//   color: green !important;
+
+// }
+.aside-menu .menu-nav > .menu-item.menu-item-active >a >i {
+  color: #FAB900 !important;
+
+}
+.aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-heading, .aside-menu .menu-nav > .menu-item:not(.menu-item-parent):not(.menu-item-open):not(.menu-item-here):not(.menu-item-active):hover > .menu-link i {
+  color: #FAB900 !important;
+}
+
+
+
+
+//Sticke Menu
+.MySticky-toolbar {
+  border-radius: 5px !important;
+  background-color: #7394a3;
+  right: 16px !important;
+  width: 35px !important;
+}
+
+.MySticky-toolbar > li > i {
+  font-size: 1.4em !important;
+  color: #ffffff !important;
+}
+
+.MySticky-toolbar > li {
+  width: 100% !important;
+  text-align: center !important;
+}
+
+.MySticky-toolbar > li:hover > i {
+  color: #FAB900 !important;
+}
+.MySticky-toolbar > li:hover {
+   background-color: #40555e !important;
+  cursor: pointer !important;
+}
+
+.MySticky-toolbar > li.zoomin:hover {
+  cursor: zoom-in !important;
+}
+.MySticky-toolbar > li.zoomout:hover {
+  cursor: zoom-out !important;
+}
+
+.MySticky-toolbar > li:first-child:hover {
+  border-top-right-radius: 5px !important;
+  border-top-left-radius: 5px !important;
+}
+.MySticky-toolbar > li:last-child:hover {
+  border-bottom-right-radius: 5px !important;
+  border-bottom-left-radius: 5px !important;
+}
+
+.CursorPointer:hover
+{
+  cursor: pointer !important;
+}
+.CursorHelp:hover
+{
+  cursor: help !important;
+}

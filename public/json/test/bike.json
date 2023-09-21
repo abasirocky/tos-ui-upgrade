@@ -1,0 +1,35 @@
+{
+    "FaultDetails": null,
+    "Message": null,
+    "ResponseCode": null,
+    "Result": [
+                      {
+                  "Area": "RORO1",
+                  "LaneNumber": 1,
+                  "Vehicles": [
+                    {
+                      "HandlingUid": 15298,
+                      "Length": 5.8,
+                      "Offset": 0,
+                      "PlannedOut": true,
+                      "Present": true,
+                      "Sequence": 1,
+                      "Type": "BIKE",
+                      "Uid": 3167,
+                      "UpdateCount": 1,
+                      "VIN": "JAN0057",
+                      "Weight": 1670,
+                      "Width": 2
+                    } 
+      
+                  ]
+                }
+
+              ]       ,
+    "Success": true,
+    "HasPaging": false,
+    "PageCount": 0,
+    "PageIndex": 0,
+    "PageSize": 0,
+    "ResultsCount": 3
+  }

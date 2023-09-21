@@ -1,0 +1,20 @@
+{
+  "FaultDetails": null,
+  "Message": null,
+  "ResponseCode": null,
+  "Result": {
+    "Bearing": 0,
+    "FacilityCode": "JUPITER",
+    "GeoCenterPointLatitude": 51.278142315006626,
+    "GeoCenterPointLongitude": 4.357378256717503,
+    "GeoEasternBoundary": 5,
+    "GeoNorthernBoundary": 53,
+    "GeoSouthernBoundary": 50.5,
+    "GeoWesternBoundary": 3.5,
+    "MaxZoomLevel": 23,
+    "MinZoomLevel": 12,
+    "TileServerUrl": null,
+    "ZoomLevel": 14
+  },
+  "Success": true
+}
